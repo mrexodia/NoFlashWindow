@@ -1,0 +1,7 @@
+NoFlashWindow.rar
+*.suo
+*.sdf
+*.user
+Release/
+Debug/
+x64/
